@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBAD7B2-55E5-4C6E-9262-D07EB4F5DD60}|AdventureWorks.API\\AdventureWorks.API.csproj|c:\\proyectos\\personalgithub\\restapiadventureworks\\adventureworks\\adventureworks.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBAD7B2-55E5-4C6E-9262-D07EB4F5DD60}|AdventureWorks.API\\AdventureWorks.API.csproj|solutionrelative:adventureworks.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBAD7B2-55E5-4C6E-9262-D07EB4F5DD60}|AdventureWorks.API\\AdventureWorks.API.csproj|c:\\proyectos\\personalgithub\\restapiadventureworks\\adventureworks\\adventureworks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBAD7B2-55E5-4C6E-9262-D07EB4F5DD60}|AdventureWorks.API\\AdventureWorks.API.csproj|solutionrelative:adventureworks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A06AC0B-C615-4DB1-9249-847713884033}|AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj|c:\\proyectos\\personalgithub\\restapiadventureworks\\adventureworks\\adventureworks.infrastructure\\adventureworks2019context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A06AC0B-C615-4DB1-9249-847713884033}|AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj|solutionrelative:adventureworks.infrastructure\\adventureworks2019context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A06AC0B-C615-4DB1-9249-847713884033}|AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj|c:\\proyectos\\personalgithub\\restapiadventureworks\\adventureworks\\adventureworks.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A06AC0B-C615-4DB1-9249-847713884033}|AdventureWorks.Infrastructure\\AdventureWorks.Infrastructure.csproj|solutionrelative:adventureworks.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF254413-212B-48F5-A1B2-A83E0C3A207E}|AdventureWorks.Domain\\AdventureWorks.Domain.csproj|c:\\proyectos\\personalgithub\\restapiadventureworks\\adventureworks\\adventureworks.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF254413-212B-48F5-A1B2-A83E0C3A207E}|AdventureWorks.Domain\\AdventureWorks.Domain.csproj|solutionrelative:adventureworks.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBAD7B2-55E5-4C6E-9262-D07EB4F5DD60}|AdventureWorks.API\\AdventureWorks.API.csproj|c:\\proyectos\\personalgithub\\restapiadventureworks\\adventureworks\\adventureworks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBAD7B2-55E5-4C6E-9262-D07EB4F5DD60}|AdventureWorks.API\\AdventureWorks.API.csproj|solutionrelative:adventureworks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdventureWorks2019Context.cs",
+              "DocumentMoniker": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.Infrastructure\\AdventureWorks2019Context.cs",
+              "RelativeDocumentMoniker": "AdventureWorks.Infrastructure\\AdventureWorks2019Context.cs",
+              "ToolTip": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.Infrastructure\\AdventureWorks2019Context.cs",
+              "RelativeToolTip": "AdventureWorks.Infrastructure\\AdventureWorks2019Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:08:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.API\\Program.cs",
+              "RelativeDocumentMoniker": "AdventureWorks.API\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.API\\Program.cs",
+              "RelativeToolTip": "AdventureWorks.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:53:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.Domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "AdventureWorks.Domain\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.Domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "AdventureWorks.Domain\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:37:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AdventureWorks.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AdventureWorks.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:33:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AdventureWorks.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AdventureWorks.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:31:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AdventureWorks.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Proyectos\\personalGitHub\\RestApiAdventureWorks\\AdventureWorks\\AdventureWorks.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "AdventureWorks.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:14:22.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
